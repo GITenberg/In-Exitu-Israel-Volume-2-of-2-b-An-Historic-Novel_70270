@@ -1,5 +1,8 @@
 _repo: In-Exitu-Israel-Volume-2-of-2-b-An-Historic-Novel_70270
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70270-h/images/cover.jpg
 creator:
   author:
     agent_name: Baring-Gould, S. (Sabine)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: https://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70270#In-Exitu-Israel-Volume-2-of-2-b-An-Historic-Novel
 gutenberg_issued: '2023-03-12'
 identifiers:
   gutenberg: '70270'
